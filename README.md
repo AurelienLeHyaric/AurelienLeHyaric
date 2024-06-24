@@ -36,6 +36,7 @@ Je suis un développeur passionné ayant une expertise de développement fullsta
 ![NPM](https://img.shields.io/badge/NPM-96300c?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/YARN-18A303?&style=for-the-badge&logo=yarn&logoColor=white&color=1191a0)
 ![Figma](https://img.shields.io/badge/FIGMA-18A303?&style=for-the-badge&logo=figma&logoColor=white&color=e2740c)
+![Notion](https://img.shields.io/badge/NOTION-18A303?&style=for-the-badge&logo=notion&logoColor=white&color=black)
 
 
 
